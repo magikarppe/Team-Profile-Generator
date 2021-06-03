@@ -3,7 +3,7 @@
 ## Description 
 Team-Profile-Generator is a software engineering team generator command line application. Unit tests created for this application. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
-[video]()
+[video](https://drive.google.com/file/d/1DkWPoDmuR-0lP_dRTl9k6FhMKWsetfx2/view?usp=sharing)
 
 
 ## Table of Contents
